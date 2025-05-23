@@ -156,7 +156,7 @@ export default function AppSidebar() {
                       showInfo
                       user={{
                         imageUrl:"/RTR-LOGO.png",
-                        fullName:"Sang Sok",
+                        fullName:"Klov Samrach",
                         emailAddresses:[
                             {
                                 emailAddress:"samrach.klov@gmail.com"
@@ -180,7 +180,7 @@ export default function AppSidebar() {
                       showInfo
                       user={{
                         imageUrl:"/RTR-LOGO.png",
-                        fullName:"Sang Sok",
+                        fullName:"Klov Samrach",
                         emailAddresses:[
                             {
                                 emailAddress:"samrach.klov@gmail.com"
